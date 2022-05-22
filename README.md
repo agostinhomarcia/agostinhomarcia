@@ -1,4 +1,4 @@
-## Seja Bem Vindo ao Perfil da Marcia!🚀
+## Seja Bem Vindo ao Perfil da Márcia!🚀
 
 <div>
   <a href="https://github.com/agostinhomarcia ">
@@ -15,7 +15,7 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+  ### Para troca de conhecimentos segue minhas redes!
  
 <div> 
 
