@@ -1,9 +1,9 @@
 ## Hi!! I'm  Perfil da Márcia!🚀
 ## Formação 🎓
 ## Cursando 📓
-## Análise e Desenvolvimento de Sistemas
-## Desenvolvedor(a) Front-end
-## Desenvolvedor(a) FullStack
+## Análise e Desenvolvimento de Sistemas em Formação
+## Desenvolvedor(a) Front-end em Formação
+## Desenvolvedor(a) FullStack em Formação
 
 <div>
   <a href="https://github.com/agostinhomarcia ">
