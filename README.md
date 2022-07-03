@@ -1,5 +1,5 @@
 ## Hi!!🙌🚀
-## Atualmente trabalho com funcionária pública, mas estou buscando recolocação na area de Desenvolvimento Web
+## Atualmente trabalho como funcionária pública, mas estou buscando recolocação na area de Desenvolvimento Web
 ## Estudo ADS pela Universidade Internacional Uninter🎓
 ## Desenvolvimento web Front-end com Mentoria na @DevEmDebro 🎓
 ## Programador(a) FullStack na DevClub com Mentor Rodolfo Mori 🎓
