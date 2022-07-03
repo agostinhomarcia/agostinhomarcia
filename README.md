@@ -1,11 +1,25 @@
-## Hi!! I'm  Perfil da Márcia!🚀
-## Formação 🎓
-## Cursando 📓
-## Análise e Desenvolvimento de Sistemas em Formação
-## Desenvolvedor(a) Front-end em Formação
-## Desenvolvedor(a) FullStack em Formação
+## Hi!!🙌🚀
+## Atualmente trabalho com funcionária pública, mas estou buscando recolocação na area de Desenvolvimento Web
+## Estudo ADS pela Universidade Internacional Uninter🎓
+## Desenvolvimento web Front-end com Mentoria na @DevEmDebro 🎓
+## Programador(a) FullStack na DevClub com Mentor Rodolfo Mori 🎓
+## Estou desenvolvendo projetos com as seguintes tecnologias:
 
-<div>
+<div style="display: inline_block"><br>
+    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+     <img align="center" alt="react" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg ">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  
+   
+  
+</div>
+
+
+
+
+<br>
+<br>
   <a href="https://github.com/agostinhomarcia ">
     
     
