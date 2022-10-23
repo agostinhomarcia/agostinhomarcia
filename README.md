@@ -16,7 +16,7 @@
 <br>
 </br>
 <br>
-<h3 align="right">Welcome to my page!<h3>
+<h2 align="right">Welcome to my page!<h2>
 
 <br>  
 
