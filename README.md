@@ -46,14 +46,14 @@
  <img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
 
   
--  <img src="https://media.giphy.com/media/XH4j6Dff6N2hfBD41l/giphy.gif" alt="unicornio" width="40">&nbsp;I love: ***Books*** and ***Movies***😉
-- <img src="https://media.giphy.com/media/cKc0u9hyvZEOjD8V08/giphy.gif" alt="cat" width="40"> &nbsp;I’m currently working as a Teacher..
-- <img src="https://media.giphy.com/media/H1SUKAcBubpIe2C7AE/giphy.gif" alt="cat" width="40"> &nbsp;I’m currently learning React.js
-- <img src="https://media.giphy.com/media/553ZGCzYHSQHXiFKA8/giphy.gif" alt="cat" width="40"> &nbsp;Looking to collaborate on open source projects (newbie)👋
-- <img src="https://media.giphy.com/media/rXqNdw9UKS45wsRpJL/giphy.gif" alt="cat" width="40">&nbsp;I’m looking for help with Backend 😭!
-- <img src="https://media.giphy.com/media/fikiml0dKfRQ2ZS08E/giphy.gif" alt="car" width="40"> &nbsp;Ask me anything, I'll be happy to help.
-- <img src="https://media.giphy.com/media/KOUC1bovOpRANRFrVW/giphy.gif" alt="cat" width="40"> &nbsp;My favorite hobby is playing the guitar
-- <img src="https://media.giphy.com/media/9Jk5uq2FFETYYNtCjg/giphy.gif" alt="cat" width="40"> &nbsp;I don't like to run
+-  <img src="https://media.giphy.com/media/XH4j6Dff6N2hfBD41l/giphy.gif" alt="unicornio" width="45">&nbsp;I love: ***Books*** and ***Movies***😉
+- <img src="https://media.giphy.com/media/cKc0u9hyvZEOjD8V08/giphy.gif" alt="cat" width="50"> &nbsp;I’m currently working as a Teacher..
+- <img src="https://media.giphy.com/media/H1SUKAcBubpIe2C7AE/giphy.gif" alt="cat" width="50"> &nbsp;I’m currently learning React.js
+- <img src="https://media.giphy.com/media/553ZGCzYHSQHXiFKA8/giphy.gif" alt="cat" width="50"> &nbsp;Looking to collaborate on open source projects (newbie)👋
+- <img src="https://media.giphy.com/media/rXqNdw9UKS45wsRpJL/giphy.gif" alt="cat" width="50">&nbsp;I’m looking for help with Backend 😭!
+- <img src="https://media.giphy.com/media/fikiml0dKfRQ2ZS08E/giphy.gif" alt="car" width="50"> &nbsp;Ask me anything, I'll be happy to help.
+- <img src="https://media.giphy.com/media/KOUC1bovOpRANRFrVW/giphy.gif" alt="cat" width="50"> &nbsp;My favorite hobby is playing the guitar
+- <img src="https://media.giphy.com/media/9Jk5uq2FFETYYNtCjg/giphy.gif" alt="cat" width="50"> &nbsp;I don't like to run
 
   <hr/>
      <h1 align="center">  
