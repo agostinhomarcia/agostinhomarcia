@@ -9,8 +9,8 @@
 
 <br><br>
 
-<h1 align="center">Hi, nice to meet you <br>
-    <img align="right" src="https://media.giphy.com/media/QK41PjIkLqgs6NL1aZ/giphy.gif" alt="Gat" width="10%">
+<h1 align="right">Hi, nice to meet you <br>
+    <img align="right" src="https://media.giphy.com/media/QK41PjIkLqgs6NL1aZ/giphy.gif" alt="Gat" width="9%">
 </h1>
 
 <br>
