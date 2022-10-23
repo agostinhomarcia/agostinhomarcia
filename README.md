@@ -10,7 +10,7 @@
 <br><br>
 
 <h1 align="center">Hi, nice to meet you <br>
-    <img align="right" src="https://media.giphy.com/media/QK41PjIkLqgs6NL1aZ/giphy.gif" alt="Gat" width="15%">
+    <img align="right" src="https://media.giphy.com/media/QK41PjIkLqgs6NL1aZ/giphy.gif" alt="Gat" width="10%">
 </h1>
 
 <br>
@@ -20,18 +20,20 @@
 
 <br>  
 
-<p align="right">Welcome to my page!
-    <br>
-   This is ME, Márcia Agostinho,  <b> programming student at DevClub.</b>.    <br>
-   I'm a <b>front-end developer on the rise</b>  and a <b>competitive programming enthusiast</b>.   <br>
+<p align="right">
+    
+This is ME, Márcia Agostinho, <br> programming student at DevClub.
+<br>
+I'm a front-end developer on the rise and <br> a competitive programming enthusiast
 
-   I want  <b>to learn and Improve .</b>
-    <b>my 📈 Front-end Development.</b> 
-    <br>
-    <img src="https://media.giphy.com/media/3oKIPnyeAQ97VB0p0I/giphy.gif" alt="Heart exploding 1" width="60">
-    <img  src="https://media.giphy.com/media/3oKIPnyeAQ97VB0p0I/giphy.gif" alt="Heart exploding 2" width="60">
-    <img src="https://media.giphy.com/media/3oKIPnyeAQ97VB0p0I/giphy.gif" alt="Heart exploding 3" width="60">
+I want  to learn and Improve 
+my 📈 <br> Front-end Development
+  
+<img src="https://media.giphy.com/media/3oKIPnyeAQ97VB0p0I/giphy.gif" alt="Heart exploding 1" width="50">
+<img  src="https://media.giphy.com/media/3oKIPnyeAQ97VB0p0I/giphy.gif" alt="Heart exploding 2" width="50">
+<img src="https://media.giphy.com/media/3oKIPnyeAQ97VB0p0I/giphy.gif" alt="Heart exploding 3" width="50">
 </p>
+
 
 <hr>
 
