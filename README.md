@@ -10,7 +10,7 @@
 <br><br>
 
 <h1 align="center">Hi, nice to meet you <br>
-    <img align="right" src="https://media.giphy.com/media/QK41PjIkLqgs6NL1aZ/giphy.gif" alt="Gat" width="20%">
+    <img align="right" src="https://media.giphy.com/media/QK41PjIkLqgs6NL1aZ/giphy.gif" alt="Gat" width="15%">
 </h1>
 
 <br>
@@ -28,9 +28,9 @@
    I want  <b>to learn and Improve .</b>
     <b>my 📈 Front-end Development.</b> 
     <br>
-    <img src="https://media.giphy.com/media/3oKIPnyeAQ97VB0p0I/giphy.gif" alt="Heart exploding 1" width="50">
-    <img  src="https://media.giphy.com/media/3oKIPnyeAQ97VB0p0I/giphy.gif" alt="Heart exploding 2" width="50">
-    <img src="https://media.giphy.com/media/3oKIPnyeAQ97VB0p0I/giphy.gif" alt="Heart exploding 3" width="50">
+    <img src="https://media.giphy.com/media/3oKIPnyeAQ97VB0p0I/giphy.gif" alt="Heart exploding 1" width="60">
+    <img  src="https://media.giphy.com/media/3oKIPnyeAQ97VB0p0I/giphy.gif" alt="Heart exploding 2" width="60">
+    <img src="https://media.giphy.com/media/3oKIPnyeAQ97VB0p0I/giphy.gif" alt="Heart exploding 3" width="60">
 </p>
 
 <hr>
