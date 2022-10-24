@@ -5,12 +5,12 @@
 
 <!-- PRESENTATION (GIF) -->
 
-<img align="left" src="https://media.giphy.com/media/1xOPeoGeRWn5JIpuIm/giphy.gif" alt=""  width="30%"/>
+<img align="left" src="https://media.giphy.com/media/1xOPeoGeRWn5JIpuIm/giphy.gif" alt=""  width="20%"/>
 
 <br><br>
 
 <h1 align="right">Hi, nice to meet you <br>
-    <img align="right" src="https://media.giphy.com/media/QK41PjIkLqgs6NL1aZ/giphy.gif" alt="Gat" width="9%">
+    <img align="right" src="https://media.giphy.com/media/QK41PjIkLqgs6NL1aZ/giphy.gif" alt="Gat" width="15%">
 </h1>
 
 <br>
@@ -26,8 +26,8 @@ This is ME, Márcia Agostinho, <br> programming student at DevClub.
 <br>
 I'm a front-end developer on the rise and <br> a competitive programming enthusiast
 
-I want  to learn and Improve 
-my 📈 <br> Front-end Development
+I want to learn and improve myself in 📈 <br>
+Front-end development.🚀
   
 <img src="https://media.giphy.com/media/NPVxkmlE8NkoGdtm0b/giphy.gif" alt="Heart exploding 1" width="50">
 <img  src="https://media.giphy.com/media/NPVxkmlE8NkoGdtm0b/giphy.gif" alt="Heart exploding 2" width="50">
