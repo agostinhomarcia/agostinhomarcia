@@ -103,38 +103,43 @@ my 📈 <br> Front-end Development
 
  <hr>
 <div>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
+    <img src="https://media.giphy.com/media/1Tfj964yjl7b3PlHBq/giphy.gif" width="40" height="40"/>
+    <img src="https://media.giphy.com/media/8wgXnInTFAftvTj9nT/giphy.gif" width="40" height="40"/>
+    <img src="https://media.giphy.com/media/yBgscAAQRDhig20tD1/giphy.gif" width="40" height="40"/>
+    <img src="https://media.giphy.com/media/rsrNpsSE7lnk1uV32d/giphy.gif" width="40" height="40"/>
+    <img src="https://media.giphy.com/media/dIuUhUok6EMNeMEkpY/giphy.gif" width="40" height="40"/>
+    <img src="https://media.giphy.com/media/buSbTR5WoNtZYlXhHZ/giphy.gif" width="40" height="40"/>
+    <img src="https://media.giphy.com/media/g8rn08g7fh1I7r1T2x/giphy.gif" width="40" height="40"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="40" height="40"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="40" height="40"/>
+    <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="40" height="40"/>
+    <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="40" height="40"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="40" height="40"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="40" height="40"/>
+    <img src="https://media.giphy.com/media/m4SyaZps5YyUtnuLWR/giphy.gif" width="40" height="40"/>
+    <img src="https://media.giphy.com/media/qkXQbTog7GjL5zd8Xw/giphy.gif" width="40" height="40"/>
+    <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="40" height="40"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="40" height="40"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="40" height="40"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="40" height="40"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="40" height="40"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="40" height="40"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="40" height="40"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="40" height="40"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="40" height="40"/>
+    <img src="https://media.giphy.com/media/QHW2a9LofXNnr8Iiv5/giphy.gif" width="40" height="40"/>
+    <img src="https://media.giphy.com/media/rdkE3nGVFH3cljKyR8/giphy.gif" width="40" height="40"/>
+    <img src="https://media.giphy.com/media/2vj2ZHc6Y86qriFb6F/giphy.gif" width="40" height="40"/>
+    <img src="https://media.giphy.com/media/A3K059hblIvWrGiml6/giphy.gif" width="40" height="40"/>
+    <img src="https://media.giphy.com/media/KuK5RnN36GNiuO8uqR/giphy.gif" width="40" height="40"/>
 </div>
  
  <br>
       
   > 
  <div align="left">Thanks for visiting.  <br>
-    <img align="left" src="https://media.giphy.com/media/xAqHUL21pMHe0/giphy.gif" alt="at" width="30">
+    <img align="left" src="https://media.giphy.com/media/xAqHUL21pMHe0/giphy.gif" alt="at" width="40">
    Enjoy!!!
-     <img align="left" src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" alt="Star" width="30">
+     <img align="left" src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" alt="Star" width="40">
 </div>
 
