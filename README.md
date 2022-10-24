@@ -29,9 +29,15 @@ I'm a front-end developer on the rise and <br> a competitive programming enthusi
 I want  to learn and Improve 
 my 📈 <br> Front-end Development
   
-<img src="https://media.giphy.com/media/3oKIPnyeAQ97VB0p0I/giphy.gif" alt="Heart exploding 1" width="50">
-<img  src="https://media.giphy.com/media/3oKIPnyeAQ97VB0p0I/giphy.gif" alt="Heart exploding 2" width="50">
-<img src="https://media.giphy.com/media/3oKIPnyeAQ97VB0p0I/giphy.gif" alt="Heart exploding 3" width="50">
+<img src="https://media.giphy.com/media/NPVxkmlE8NkoGdtm0b/giphy.gif" alt="Heart exploding 1" width="50">
+<img  src="https://media.giphy.com/media/NPVxkmlE8NkoGdtm0b/giphy.gif" alt="Heart exploding 2" width="50">
+<img src="https://media.giphy.com/media/NPVxkmlE8NkoGdtm0b/giphy.gif" alt="Heart exploding 3" width="50">
+<img src="https://media.giphy.com/media/NPVxkmlE8NkoGdtm0b/giphy.gif" alt="Heart exploding 4" width="50">
+<img src="https://media.giphy.com/media/NPVxkmlE8NkoGdtm0b/giphy.gif" alt="Heart exploding 5" width="50">
+<img src="https://media.giphy.com/media/NPVxkmlE8NkoGdtm0b/giphy.gif" alt="Heart exploding 6" width="50">
+<img src="https://media.giphy.com/media/NPVxkmlE8NkoGdtm0b/giphy.gif" alt="Heart exploding 7" width="50">
+<img src="https://media.giphy.com/media/NPVxkmlE8NkoGdtm0b/giphy.gif" alt="Heart exploding 8" width="50">
+
 </p>
 
 
@@ -44,7 +50,7 @@ my 📈 <br> Front-end Development
 <br>
  </h1>
 
- >    <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" alt="STAR" width="40"> &nbsp;***Talking about Personal Stuffs:***
+ > <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" alt="STAR" width="40"> &nbsp;***Talking about Personal Stuffs:***  <img       src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" alt="Heart" width="40"> &nbsp;
  <img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
 
   
@@ -62,7 +68,8 @@ my 📈 <br> Front-end Development
  <br/>
 
                                                                                                                                                     
- <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" alt="STAR" width="40"> &nbsp;***Languages & Tools I Know...***
+ <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" alt="STAR" width="50"> &nbsp;***Languages & Tools I Know...***
+   <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" alt="Heart" width="40"> &nbsp;
 <p align="left"><code> <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"> </code>
 <code> <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"> </code>
 <code> <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"> </code>
@@ -136,10 +143,12 @@ my 📈 <br> Front-end Development
  
  <br>
       
-  > 
- <div align="left">Thanks for visiting.  <br>
-    <img align="left" src="https://media.giphy.com/media/xAqHUL21pMHe0/giphy.gif" alt="at" width="40">
-   Enjoy!!!
-     <img align="left" src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" alt="Star" width="40">
+  
+ <div align="left">Thanks for visiting.  <br><br>
+    <img align="left" src="https://media.giphy.com/media/xAqHUL21pMHe0/giphy.gif" alt="at" width="60">
+   
+  <img align="left" src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" alt="Star" width="50">
+  <img align="left" src="https://media.giphy.com/media/xUOxf9qA9iupNWfT3y/giphy.gif" alt="heart" width="50">
+
 </div>
 
