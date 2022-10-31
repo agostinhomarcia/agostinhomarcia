@@ -68,7 +68,7 @@ Front-end development.🚀
  <br/>
 
                                                                                                                                                     
- <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" alt="STAR" width="50"> &nbsp;***Languages & Tools I Know...***
+ <img  src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" alt="STAR" width="50"> &nbsp;***Languages & Tools I Know...***
    <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" alt="Heart" width="50"> &nbsp;
 <p align="left"><code> <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"> </code>
 <code> <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"> </code>
