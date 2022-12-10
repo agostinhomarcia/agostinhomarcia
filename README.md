@@ -9,7 +9,7 @@
 
 <br><br>
 
-<h1 align="right">Hi, nice to meet you <br>
+<h1 align="right">Hi, <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> nice to meet you <br>
     <img align="right" src="https://media.giphy.com/media/QK41PjIkLqgs6NL1aZ/giphy.gif" alt="Gat" width="15%">
 </h1>
 
