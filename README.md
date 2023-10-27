@@ -54,7 +54,7 @@ Front-end development.🚀
  <img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
 
   
--  <img src="https://media.giphy.com/media/XH4j6Dff6N2hfBD41l/giphy.gif" alt="unicornio" width="45">&nbsp;I love: ***Books*** and ***Movies***😉
+- <img src="https://media.giphy.com/media/XH4j6Dff6N2hfBD41l/giphy.gif" alt="unicornio" width="45">&nbsp;I love: ***Books*** and ***Movies***😉
 - <img src="https://media.giphy.com/media/cKc0u9hyvZEOjD8V08/giphy.gif" alt="cat" width="50"> &nbsp;I’m currently working as a Teacher..
 - <img src="https://media.giphy.com/media/H1SUKAcBubpIe2C7AE/giphy.gif" alt="cat" width="50"> &nbsp;I’m currently learning React.js
 - <img src="https://media.giphy.com/media/553ZGCzYHSQHXiFKA8/giphy.gif" alt="cat" width="50"> &nbsp;Looking to collaborate on open source projects (newbie)👋
@@ -69,7 +69,7 @@ Front-end development.🚀
 
                                                                                                                                                     
  <img  src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" alt="STAR" width="50"> &nbsp;***Languages & Tools I Know...***
-   <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" alt="Heart" width="50"> &nbsp;
+  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" alt="Heart" width="50"> &nbsp;
 <p align="left"><code> <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"> </code>
 <code> <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"> </code>
 <code> <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"> </code>
@@ -83,6 +83,11 @@ Front-end development.🚀
 <code> <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"> </code>
 <code> <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"> </code>
 <code> <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"> </code>
+<code> <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg"> </code>
+<code> <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"> </code>
+<code> <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"> </code>
+<code> <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"> </code>
+<code> <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> </code>
   
 
  </p>
