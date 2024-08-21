@@ -1,4 +1,4 @@
-![Profile 3D Contributions](https://github.com/agostinhomarcia/marcia/blob/main/profile-3d-contrib/profile-night-green.svg)
+
 
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/agostinhomarcia/count.svg" />
