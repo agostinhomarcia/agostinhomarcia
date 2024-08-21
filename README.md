@@ -1,3 +1,4 @@
+![Profile 3D Contributions](https://github.com/agostinhomarcia/marcia/blob/main/profile-3d-contrib/profile-night-green.svg)
 
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/agostinhomarcia/count.svg" />
@@ -5,12 +6,11 @@
 
 <!-- PRESENTATION (GIF) -->
 
-<img align="left" src="https://media.giphy.com/media/1xOPeoGeRWn5JIpuIm/giphy.gif" alt=""  width="20%"/>
 
 <br><br>
 
 <h1 align="right">Hi, <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> nice to meet you <br>
-    <img align="right" src="https://media.giphy.com/media/QK41PjIkLqgs6NL1aZ/giphy.gif" alt="Gat" width="15%">
+
 </h1>
 
 <br>
