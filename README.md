@@ -1,27 +1,37 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="400px" align="right">
 
 <h1 align="left">Hi, <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> nice to meet you</h1>
 
+<hr>
+
+- &nbsp;I have a passion for ***Books*** and ***Movies***📚🎥  
+- &nbsp;Currently honing my skills as a Front-End Developer with a specialization in React.js  
+- &nbsp;Always open to collaborating on impactful open-source projects👋  
+- &nbsp;Feel free to reach out—I'm here to help and share knowledge.  
+- &nbsp;When I'm not coding, you can find me playing the guitar 🎸
+
+<hr>
+
 <p align="left">
-  🦄 Linguagens e Frameworks de Front-End:  <br>
-  - Linguagens: JavaScript, TypeScript, HTML, CSS  <br>
-  - Frameworks e Bibliotecas: React, React Native, Angular, Vue.js  <br>
+  🦄 Linguagens e Frameworks de Front-End:<br>
+  - Linguagens: JavaScript, TypeScript, HTML, CSS<br>
+  - Frameworks e Bibliotecas: React, React Native, Angular, Vue.js<br>
 </p>
 
 <p align="left">
-  💼 Ferramentas:  <br>
-  - Editor de Código: Visual Studio Code, Sublime Text  <br>
-  - Controle de Versão: Git, GitHub, GitLab  <br>
-  - Frameworks: React, Node.js, Express.js  <br>
-  - Banco de Dados: MySQL, PostgreSQL, MongoDB  <br>
-  - Ferramentas de Deploy: Docker, Kubernetes, Heroku  <br>
-  - Design e Prototipagem: Figma, Adobe XD  <br>
-  - Ambientes de Desenvolvimento: MacOs, WSL, Docker  <br>
-  - Testes: Jest, Cypress, Selenium  
+  💼 Ferramentas:<br>
+  - Editor de Código: Visual Studio Code, Sublime Text<br>
+  - Controle de Versão: Git, GitHub, GitLab<br>
+  - Frameworks: React, Node.js, Express.js<br>
+  - Banco de Dados: MySQL, PostgreSQL, MongoDB<br>
+  - Ferramentas de Deploy: Docker, Kubernetes, Heroku<br>
+  - Design e Prototipagem: Figma, Adobe XD<br>
+  - Ambientes de Desenvolvimento: MacOs, WSL, Docker<br>
+  - Testes: Jest, Cypress, Selenium<br>
 </p>
 
 <p align="left">
-  💌Vamos nos conectar! ⤵️
+  💌 Vamos nos conectar! ⤵️
 </p>
 
 <p align="left">
@@ -35,24 +45,13 @@
   <a href="#" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
 </p>
+
 <br>
 <br>
+
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/agostinhomarcia/count.svg" />
 </p>
-
-<!-- PRESENTATION (GIF) -->
-
-
-<hr>
-
-- &nbsp;I love: ***Books*** and ***Movies***😉  
--  &nbsp;I’m currently working as a Teacher.  
-- &nbsp;I’m currently learning React.js  
-- &nbsp;Looking to collaborate on open source projects (newbie)👋  
-- &nbsp;Ask me anything, I'll be happy to help.  
--  &nbsp;My favorite hobby is playing the guitar  
--  &nbsp;I don't like to run
 
 <hr/>
 
