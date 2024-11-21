@@ -63,7 +63,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/agostinhomarcia/agostinhomarcia/output/snake.svg" alt="Snake animation" />
 
 ###  📊 Contribuições
 
