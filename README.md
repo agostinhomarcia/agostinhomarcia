@@ -1,106 +1,84 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="400px" align="right">
+<img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="470px" align="right">
 
-<h1 align="left">Hi, <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> nice to meet you</h1>
-
-<hr>
-
-- &nbsp;I have a passion for ***Books*** and ***Movies***📚🎥  
-- &nbsp;Currently honing my skills as a Front-End Developer with a specialization in React.js  
-- &nbsp;Always open to collaborating on impactful open-source projects👋  
-- &nbsp;Feel free to reach out—I'm here to help and share knowledge.  
-- &nbsp;When I'm not coding, you can find me playing the guitar 🎸
-
-<hr>
-
-<p align="left">
-  🦄 Linguagens e Frameworks de Front-End:<br>
-  - Linguagens: JavaScript, TypeScript, HTML, CSS<br>
-  - Frameworks e Bibliotecas: React, React Native, Angular, Vue.js<br>
-</p>
-
-<p align="left">
-  💼 Ferramentas:<br>
-  - Editor de Código: Visual Studio Code, Sublime Text<br>
-  - Controle de Versão: Git, GitHub, GitLab<br>
-  - Frameworks: React, Node.js, Express.js<br>
-  - Banco de Dados: MySQL, PostgreSQL, MongoDB<br>
-  - Ferramentas de Deploy: Docker, Kubernetes, Heroku<br>
-  - Design e Prototipagem: Figma, Adobe XD<br>
-  - Ambientes de Desenvolvimento: MacOs, WSL, Docker<br>
-  - Testes: Jest, Cypress, Selenium<br>
-</p>
-
-<p align="left">
-  💌 Vamos nos conectar! ⤵️
-</p>
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/marcia-agostinho-developer/" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-  <a href="#" title="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp"/></a>
-  <a href="#" title="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK" alt="Facebook"/></a>
-  <a href="#" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
-</p>
-
-<br>
-<br>
-
-<p align="center"> 
-  <img src="https://profile-counter.glitch.me/agostinhomarcia/count.svg" />
-</p>
-
-<hr/>
-
-<h1 align="center">  
-  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" alt="STAR" width="50"> &nbsp;Languages & Tools I Know... &nbsp;
+<h1 align="left">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=false&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+Eu+sou+Márcia+Agostinho!;" />
 </h1>
 
-<p align="left">
-  <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"></code>
-  <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"></code>
-  <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"></code>
-  <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"></code>
-  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></code>
-  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"></code>
-  <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"></code>
-  <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg"></code>
-  <code><img height="50" src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png"></code>
-  <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
-  <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"></code>
-  <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"></code>
-  <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"></code>
-  <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg"></code>
-  <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"></code>
-  <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"></code>
-  <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"></code>
-  <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>
-</p>
-
-<hr>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/5fZ2QY1vicwbsWkFXd/giphy.gif" width="50px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i>&nbsp;<img src="https://media.giphy.com/media/5fZ2QY1vicwbsWkFXd/giphy.gif" width="50px" alt="GitHub-Status"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agostinhomarcia&layout=compact&theme=chartreuse-dark"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=agostinhomarcia&theme=chartreuse-dark&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=10" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=agostinhomarcia&row=1&theme=dracula"/>
-</p>
-
-<hr>
-
 <div align="left">
-  Thanks for visiting.  <br><br>
-  <img align="left" src="https://media.giphy.com/media/xAqHUL21pMHe0/giphy.gif" alt="at" width="60">
-  <img align="left" src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" alt="Star" width="50">
-  <img align="left" src="https://media.giphy.com/media/xUOxf9qA9iupNWfT3y/giphy.gif" alt="heart" width="50">
+  <a href="https://github.com/agostinhomarcia">
+    <img src="https://img.shields.io/static/v1?message=Github&logo=github&label=&color=7159c1&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/marcia-agostinho-developer/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
+  </a>
 </div>
 
+### 🚀 Sobre mim
+
+<p align="left">
+  Desenvolvedora Front-end apaixonada por criar experiências digitais incríveis. Especializada em React.js e sempre em busca de novos desafios.
+  
+  <br>
+- 📚 Apaixonada por Livros e Filmes  
+
+- 🎸 Nas horas vagas, toco violão  
+
+- 🌱 Atualmente aprofundando conhecimentos em React.js  
+
+- 👯 Aberta para colaborar em projetos open-source  
+
+- 💬 Sempre disposta a ajudar e compartilhar conhecimento
+</p>
+
+ <br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=agostinhomarcia&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=agostinhomarcia&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+### 🛠️ Tech Stack
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+</div>
+
+### 🎯 Atividade
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/agostinhomarcia/agostinhomarcia/output/snake.svg" alt="Snake animation" />
+
+###  📊 Contribuições
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=agostinhomarcia&theme=dracula" height="150" alt="stats graph"  />
+  <img src="https://github-profile-trophy.vercel.app/?username=agostinhomarcia&theme=dracula&row=1" height="150" alt="trophy graph"  />
+</div>
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/agostinhomarcia/count.svg" alt="Visitor Counter"  />
+</div>
+
+<div align="center">
+  <h3>
+    Obrigada pela visita! 😊
+    <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
+  </h3>
+</div>
