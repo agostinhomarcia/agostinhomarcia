@@ -20,7 +20,8 @@
 
 <p align="left">
   Desenvolvedora Front-end apaixonada por criar experiências digitais incríveis. Especializada em React.js e sempre em busca de novos desafios.
-  
+
+  <br>
   <br>
 - 📚 Apaixonada por Livros e Filmes  
 
@@ -31,6 +32,16 @@
 - 👯 Aberta para colaborar em projetos open-source  
 
 - 💬 Sempre disposta a ajudar e compartilhar conhecimento
+
+- 💻 VS Code + Extensões Personalizadas
+
+- 🐙 Git Flow para Versionamento
+
+- 🎨 Figma para Design
+
+- 🧪 Jest para Testes
+
+- 📱 Expo para React Native
 </p>
 
  <br>
@@ -48,6 +59,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
+  <img src="https://raw.githubusercontent.com/kristerkari/react-native-svg-transformer/master/images/react-native-logo.png" height="40" alt="react native logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -58,10 +71,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
-
-### 🎯 Atividade
-
-<br clear="both">
 
 
 ###  📊 Contribuições
