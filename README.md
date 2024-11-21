@@ -23,6 +23,7 @@
 
   <br>
   <br>
+  
 - 📚 Apaixonada por Livros e Filmes  
 
 - 🎸 Nas horas vagas, toco violão  
