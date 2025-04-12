@@ -25,14 +25,14 @@ e por resolver problemas reais com código e criatividade.<br /><br />
 Atualmente focada em me aprofundar em React, Next.js e boas práticas de acessibilidade e performance.<br /><br />
 
 <p align="center">
-  <img src="https://media.giphy.com/media/NPVxkmlE8NkoGdtm0b/giphy.gif" width="50" />
-  <img src="https://media.giphy.com/media/NPVxkmlE8NkoGdtm0b/giphy.gif" width="50" />
-  <img src="https://media.giphy.com/media/NPVxkmlE8NkoGdtm0b/giphy.gif" width="50" />
-  <img src="https://media.giphy.com/media/NPVxkmlE8NkoGdtm0b/giphy.gif" width="50" />
-  <img src="https://media.giphy.com/media/NPVxkmlE8NkoGdtm0b/giphy.gif" width="50" />
-  <img src="https://media.giphy.com/media/NPVxkmlE8NkoGdtm0b/giphy.gif" width="50" />
-  <img src="https://media.giphy.com/media/NPVxkmlE8NkoGdtm0b/giphy.gif" width="50" />
-  <img src="https://media.giphy.com/media/NPVxkmlE8NkoGdtm0b/giphy.gif" width="50" />
+  <img src="https://media.giphy.com/media/NPVxkmlE8NkoGdtm0b/giphy.gif" width="30" />
+  <img src="https://media.giphy.com/media/NPVxkmlE8NkoGdtm0b/giphy.gif" width="30" />
+  <img src="https://media.giphy.com/media/NPVxkmlE8NkoGdtm0b/giphy.gif" width="30" />
+  <img src="https://media.giphy.com/media/NPVxkmlE8NkoGdtm0b/giphy.gif" width="30" />
+  <img src="https://media.giphy.com/media/NPVxkmlE8NkoGdtm0b/giphy.gif" width="30" />
+  <img src="https://media.giphy.com/media/NPVxkmlE8NkoGdtm0b/giphy.gif" width="30" />
+  <img src="https://media.giphy.com/media/NPVxkmlE8NkoGdtm0b/giphy.gif" width="30" />
+  <img src="https://media.giphy.com/media/NPVxkmlE8NkoGdtm0b/giphy.gif" width="30" />
 </p>
 
 <p align="center">💫 💫 💫</p>
