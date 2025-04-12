@@ -5,8 +5,9 @@
 
 <!-- FRASE DE IMPACTO COM EFEITO DE DIGITAÇÃO -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=2000&center=true&vCenter=true&width=1000&lines=Não+basta+só+codar.+É+sobre+comunicar,+resolver+e+entregar." alt="Typing impact phrase" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=2000&center=true&vCenter=true&width=1000&lines=Não+é+só+codar.+É+sobre+conectar,+resolver+e+construir+o+futuro." alt="Typing impact phrase" />
 </p>
+
 
 
 <!-- NOME COM EFEITO DE DIGITAÇÃO -->
