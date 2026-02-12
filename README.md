@@ -1,7 +1,7 @@
 <!-- CONTADOR DE VISITAS -->
-<p align="center"> 
+<!-- <p align="center"> 
   <img src="https://profile-counter.glitch.me/agostinhomarcia/count.svg" />
-</p>
+</p> -->
 
 <!-- FRASE DE IMPACTO COM EFEITO DE DIGITAÇÃO -->
 <p align="center">
