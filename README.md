@@ -92,16 +92,12 @@ Atualmente focada em me aprofundar em React, Next.js e boas práticas de acessib
  
  <p align="center" >
  
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agostinhomarcia&layout=compact&theme=chartreuse-dark"/>
+
   
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=agostinhomarcia&theme=chartreuse-dark&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=10" height ="165"/>
   <br/>
 </p>
  
-  <p align="center" >
-    <img src="https://github-profile-trophy.vercel.app/?username=agostinhomarcia&row=1&theme=dracula"/>
-  <br/>
-</p>
 
 <hr>
 
